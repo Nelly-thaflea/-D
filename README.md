@@ -1,2 +1,3 @@
 # ;D
-![this is an image](https://github.com/Nelly-thaflea/-D/blob/main/e4f73e066d7798c3490b31517746cae0.jpg?raw=true)
+![this is an image](<img width="499" height="333" alt="image" src="https://github.com/user-attachments/assets/5cb9be26-3f90-4c47-a478-9f60ccee476d" />
+)
